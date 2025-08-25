@@ -53,6 +53,9 @@ export default function DataGridDemo() {
       
   });
 
+  console.log(loading);
+  
+
 
 
 const handleDelete = async () => {
